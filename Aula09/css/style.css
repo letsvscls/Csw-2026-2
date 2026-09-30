@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: lightgray;
+    color: blue;
+}
+ 
+h1 {
+    color: white;
+    background-color: lightsalmon;
+}
+ 
+h2 {
+    color: brown;
+}
+ 
+p {
+    font-size: small;
+}
+ 
