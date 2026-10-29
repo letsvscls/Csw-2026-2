@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+form {
+  background-color: #3d4f7c;
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: left;
+}
+
+h2 {
+  color: #5a6b94;
+}
+
+label {
+  display: block;
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  color: white;
+  margin-top: 10px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+  width: auto;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 15px;
+  background-color: #5f7bb8;
+  color: white;
+  border: none;
+  font-size: 16px;
+}
